@@ -1,4 +1,4 @@
-# 📊 RFM Analysis
+# 📊 RFM Analysis (SQL + PowerBI)
 RFM Analysis is an end-to-end data analytics project that segments customers based on 
 their purchasing behaviour using RFM scoring. Built entirely in BigQuery (GCP) with 
 results visualized in an interactive Power BI dashboard.
