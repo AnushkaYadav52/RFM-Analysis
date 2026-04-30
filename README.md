@@ -14,9 +14,6 @@ This analysis helps identify:
 - ⚠️ At Risk customers
 - 👀 Customers that Require Attention
 
-## 🏗️ Architecture
-BigQuery (GCP) → SQL Transformations → RFM Scores → Customer Segments → Power BI Dashboard
-
 ## ⚙️ How RFM Scoring Works
 1. Upload monthly sales data to BigQuery.
 2. Calculate RFM values per customer.
